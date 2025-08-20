@@ -44,4 +44,6 @@ google-generativeai
 - Add **voice support** for interaction.  
 
 ---
+![Chatbot UI]("E:\Streamlit Project-GemStream\shots\Screenshot 2025-08-20 180550.png")
+
  
