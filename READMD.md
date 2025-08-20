@@ -24,9 +24,9 @@ GemStream/
 ---
 
 ## Requirements
-streamlit
-python-dotenv
-google-generativeai
+|-streamlit
+|-python-dotenv
+|-google-generativeai
 
 ---
 
@@ -44,6 +44,7 @@ google-generativeai
 - Add **voice support** for interaction.  
 
 ---
-![Chatbot UI]("E:\Streamlit Project-GemStream\shots\Screenshot 2025-08-20 180550.png")
+
+CHATBOT UI <img width="1918" height="958" alt="Screenshot 2025-08-20 180550" src="https://github.com/user-attachments/assets/992f45b0-37db-401a-9eef-5b061be32d31" />
 
  
