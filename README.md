@@ -24,9 +24,9 @@ GemStream/
 ---
 
 ## Requirements
-|-streamlit
-|-python-dotenv
-|-google-generativeai
+| streamlit
+| python-dotenv
+| google-generativeai
 
 ---
 
