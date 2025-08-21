@@ -15,11 +15,11 @@ An interactive **AI-powered chatbot** built using **Google Gemini API** and **St
 
 ## 📂 Project Structure  
 
-GemStream/
-│── main.py            # Streamlit app code  
-│── app.py             # Main Streamlit chatbot app 
-│── .env               # Stores API key (not shared publicly)  
-│── README.md          # Documentation  
+GemStream <br>
+│── main.py            # Streamlit app code  <br>
+│── app.py             # Main Streamlit chatbot app <br>
+│── .env               # Stores API key (not shared publicly)  <br>
+│── README.md          # Documentation  <br>
 
 ---
 
